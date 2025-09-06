@@ -22,10 +22,9 @@ export default function AboutSection() {
                 </p>
                 
                 <p className="text-lg leading-relaxed mb-6" data-testid="about-description-2">
-                  When I’m not coding, I’m usually geeking out over new technologies that make me lazier in a good way 😆. 
-                  From testing quirky Linux distros to messing with editing tools, 
-                  I love tinkering with anything that automates or just looks cool enough to break 
-                  first and master later. For me, exploring new tech isn’t a hobby it’s basically a reflex.
+                  When I’m not coding, I usually geek out over new technologies that make me lazier in a good way 😆. 
+                  <br>From messing with editing tools to testing quirky Linux distros. 
+                  I love tinkering with anything that looks cool enough to break. For me, exploring new tech isn’t a hobby it’s basically a reflex.
                 </p>
                 
                 <div className="space-y-3">
@@ -56,7 +55,7 @@ export default function AboutSection() {
                 <div className="grid grid-cols-2 gap-6 text-center">
                   <div className="space-y-2">
                     <div className="text-3xl font-bold text-primary" data-testid="stat-experience">Fresher</div>
-                    <div className="text-sm text-muted-foreground">Years Experience</div>
+                   <div className="text-sm text-muted-foreground">Years Experience</div>
                   </div>
                   
                   <div className="space-y-2">
