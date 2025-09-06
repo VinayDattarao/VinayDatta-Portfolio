@@ -23,7 +23,7 @@ export default function AboutSection() {
                 
                 <p className="text-lg leading-relaxed mb-6" data-testid="about-description-2">
                   When I’m not coding, I usually geek out over new technologies that make me lazier in a good way 😆. 
-                  <br>From messing with editing tools to testing quirky Linux distros. 
+                  From messing with editing tools to testing quirky Linux distros. 
                   I love tinkering with anything that looks cool enough to break. For me, exploring new tech isn’t a hobby it’s basically a reflex.
                 </p>
                 
