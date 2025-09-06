@@ -17,14 +17,14 @@ export default function AboutSection() {
               
               <div className="pl-4">
                 <p className="text-lg leading-relaxed mb-6" data-testid="about-description-1">
-                  I’m a Python and Frontend Developer obsessed with clean code and building interfaces that compile well with user experience.
-                  My idea of fun is debugging until 2 AM and experimenting with new frameworks just to squeeze out a few milliseconds of speed.
+                  I’m a Python and Frontend Developer obsessed with clean code and building interfaces.
+                  My idea of fun is debugging until 2 AM and experimenting with new frameworks.
                 </p>
                 
                 <p className="text-lg leading-relaxed mb-6" data-testid="about-description-2">
-                  When I’m not coding, I’m usually geeking out over tech that makes humans lazier in a good way. 
-                  From testing quirky Linux distros to messing with editing tools and random utilities, 
-                  I love tinkering with anything that automates, optimizes, or just looks cool enough to break 
+                  When I’m not coding, I’m usually geeking out over new technologies that make me lazier in a good way 😆. 
+                  From testing quirky Linux distros to messing with editing tools, 
+                  I love tinkering with anything that automates or just looks cool enough to break 
                   first and master later. For me, exploring new tech isn’t a hobby it’s basically a reflex.
                 </p>
                 
@@ -55,7 +55,7 @@ export default function AboutSection() {
               <div className="glow-border rounded-lg p-8 glass-card" data-testid="about-stats">
                 <div className="grid grid-cols-2 gap-6 text-center">
                   <div className="space-y-2">
-                    <div className="text-3xl font-bold text-primary" data-testid="stat-experience">3</div>
+                    <div className="text-3xl font-bold text-primary" data-testid="stat-experience">Fresher</div>
                     <div className="text-sm text-muted-foreground">Years Experience</div>
                   </div>
                   
@@ -71,7 +71,7 @@ export default function AboutSection() {
                   
                   <div className="space-y-2">
                     <div className="text-3xl font-bold text-primary" data-testid="stat-code">∞</div>
-                    <div className="text-sm text-muted-foreground">Lines of Code</div>
+                    <div className="text-sm text-muted-foreground">Lines of Code Written</div>
                   </div>
                 </div>
               </div>
