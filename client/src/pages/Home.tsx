@@ -14,7 +14,7 @@ export default function Home() {
   const scrollProgress = useScrollProgress();
 
   useEffect(() => {
-    document.title = "Neural Dev - Full Stack Developer & AI Enthusiast";
+    document.title = "Vinay Datta's Portfolio";
     
     // Add meta description
     const metaDescription = document.querySelector('meta[name="description"]');
