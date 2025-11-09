@@ -156,13 +156,11 @@
 }
 
 .neon-button.secondary:hover {
-  background: black;
-  color: var(--secondary);
+  background: var(--secondary);
+  color: black;
   box-shadow: 0 0 30px var(--secondary);
   border-color: var(--secondary);
 }
-
-
 
   .skill-bar {
     height: 8px;
