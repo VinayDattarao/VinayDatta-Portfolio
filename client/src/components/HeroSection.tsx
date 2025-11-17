@@ -19,7 +19,7 @@ export default function HeroSection() {
   };
 
   const downloadResume = () => {
-    window.open('https://drive.google.com/uc?export=download&id=1hC1ZuhwzILOVwW9_Njb2DqCPHUhQqUJu', '_blank');
+    window.open('https://drive.google.com/file/d/1n_uzu3mg92No6hriBDWR-aFVdCH2OoAE/view?usp=sharing', '_blank');
   };
 
   return (
