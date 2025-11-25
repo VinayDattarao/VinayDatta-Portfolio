@@ -149,17 +149,21 @@
     box-shadow: 0 0 30px var(--primary);
   }
 
-  .neon-button.secondary {
-    border-color: var(--secondary);
-    color: var(--secondary);
-  }
+ .neon-button.secondary {
+  border-color: var(--secondary);
+  color: var(--secondary);
+  text-shadow: none;
+}
 
-  .neon-button.secondary:hover {
-    background: var(--secondary);
-    color: black;
-    box-shadow: 0 0 30px var(--secondary);
-    border-color: var(--secondary);
-  }
+.neon-button.secondary:hover {
+  background: var(--secondary);
+  color: black;
+  box-shadow: 0 0 30px var(--secondary);
+  border-color: var(--secondary);
+
+  text-shadow: none !important;
+  filter: none !important;
+}
 
   .skill-bar {
     height: 8px;
