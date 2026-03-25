@@ -3,27 +3,27 @@ import { Github, ExternalLink } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "X-Plore India 1.0",
-    description: "Designed and developed a responsive travel guide website for users across India.",
+    title: "Sree Dattha International Conference (ICSDI 2026)",
+    description: "Developed this website for my college to manage the ICSDI 2026 international conference, handling end-to-end workflows including paper submissions, reviewer assignments, acceptance/rejection processes, and payment management. Integrated Firebase for backend services and authentication, along with Google Drive for scalable storage and management of research papers, enabling smooth coordination between authors, reviewers, and organizers.",
     image: "https://images.pexels.com/photos/36730987/pexels-photo-36730987.png",
-    technologies: ["HTML", "CSS", "Javascript", "SQL"],
+    technologies: ["HTML", "CSS", "JavaScript", "Firebase", "Google Drive API"],
     liveUrl: "https://vinaydattarao.github.io/X-Plore-India/",
     exploreUrl: "https://github.com/VinayDattarao/X-Plore-India"
   },
   {
     id: 2,
-    title: "Employee Management System",
-    description: "Designed a GUI to handle employee records, attendance, salaries, and departmental data.",
+    title: "ProctorX",
+    description: "Built a secure online examination platform with OTP-based authentication, real-time violation tracking, fullscreen enforcement, and detailed result analytics. Supports role-based access for students and administrators with exam management and performance monitoring.",
     image: "https://images.pexels.com/photos/36731393/pexels-photo-36731393.png",
-    technologies: ["Python", "SQLite", "Tkinter"],
+    technologies: ["Node.js", "PostgreSQL", "JavaScript", "HTML", "CSS"],
     exploreUrl: "https://github.com/VinayDattarao/Employee-Management-System"
   },
   {
     id: 3,
-    title: "MP3 Music Player",
-    description: "Designed a fully functional MP3 Music Player using Python and Tkinter GUI framework.",
+    title: "Finance Platform (Next.js + Prisma + AI)",
+    description: "Developed a full-stack personal finance platform that processes CSV, UPI, and PDF bank statements with OCR fallback, normalizes transactions, and provides AI-driven insights like budgeting, forecasts, and anomaly detection. Includes secure authentication, multi-currency account handling, and intelligent financial analytics.",
     image: "https://images.pexels.com/photos/36731436/pexels-photo-36731436.png",
-    technologies: ["Python", "Tkinter"],
+    technologies: ["Next.js", "Prisma", "PostgreSQL", "Tailwind", "AI/ML"],
     exploreUrl: "https://github.com/VinayDattarao/Python-Projects/tree/main/Mp3%20Player"
   }
 ];
