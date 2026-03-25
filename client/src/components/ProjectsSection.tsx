@@ -12,7 +12,7 @@ const projects = [
   {
     id: 2,
     title: "ProctorX",
-    description: "Built a secure online examination platform with OTP-based authentication, fullscreen enforcement, and real-time violation tracking. Supports role-based access for students and administrators, enabling exam creation, monitoring, and evaluation. Includes detailed result analytics, performance tracking, and PostgreSQL-based storage for reliability and scalability.",
+    description: "Built a secure online examination platform with OTP-based authentication, fullscreen enforcement, and real-time violation tracking. Supports role-based access for students and administrators, enabling exam creation, monitoring, and evaluation. Includes detailed result analytics, performance tracking, PostgreSQL-based storage, and automated email notifications for user actions and exam updates.",
     image: "https://images.pexels.com/photos/36731393/pexels-photo-36731393.png",
     technologies: ["Node.js", "PostgreSQL", "JavaScript", "HTML", "CSS"],
     liveUrl: "https://proctorx.vercel.app/",
