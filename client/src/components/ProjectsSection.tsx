@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "X-Plore India 1.0",
     description: "Designed and developed a responsive travel guide website for users across India.",
-    image: "https://images.pexels.com/photos/36730793/pexels-photo-36730793.png",
+    image: "https://images.pexels.com/photos/36730907/pexels-photo-36730907.png",
     technologies: ["HTML", "CSS", "Javascript", "SQL"],
     liveUrl: "https://vinaydattarao.github.io/X-Plore-India/",
     exploreUrl: "https://github.com/VinayDattarao/X-Plore-India"
