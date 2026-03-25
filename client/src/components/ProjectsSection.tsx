@@ -7,8 +7,7 @@ const projects = [
     description: "Developed this website for my college to manage the ICSDI 2026 international conference, handling end-to-end workflows including paper submissions, reviewer assignments, acceptance/rejection processes, and payment management. Integrated Firebase for backend services and authentication, along with Google Drive for scalable storage and management of research papers, enabling smooth coordination between authors, reviewers, and organizers.",
     image: "https://images.pexels.com/photos/36730987/pexels-photo-36730987.png",
     technologies: ["HTML", "CSS", "JavaScript", "Firebase", "Google Drive API"],
-    liveUrl: "https://vinaydattarao.github.io/X-Plore-India/",
-    exploreUrl: "https://github.com/VinayDattarao/X-Plore-India"
+    liveUrl: "https://sdi-conference.vercel.app/"
   },
   {
     id: 2,
@@ -16,7 +15,8 @@ const projects = [
     description: "Built a secure online examination platform with OTP-based authentication, real-time violation tracking, fullscreen enforcement, and detailed result analytics. Supports role-based access for students and administrators with exam management and performance monitoring.",
     image: "https://images.pexels.com/photos/36731393/pexels-photo-36731393.png",
     technologies: ["Node.js", "PostgreSQL", "JavaScript", "HTML", "CSS"],
-    exploreUrl: "https://github.com/VinayDattarao/Employee-Management-System"
+    liveUrl: "https://proctorx.vercel.app/",
+    exploreUrl: "https://github.com/VinayDattarao/ProctorX"
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const projects = [
     description: "Developed a full-stack personal finance platform that processes CSV, UPI, and PDF bank statements with OCR fallback, normalizes transactions, and provides AI-driven insights like budgeting, forecasts, and anomaly detection. Includes secure authentication, multi-currency account handling, and intelligent financial analytics.",
     image: "https://images.pexels.com/photos/36731436/pexels-photo-36731436.png",
     technologies: ["Next.js", "Prisma", "PostgreSQL", "Tailwind", "AI/ML"],
-    exploreUrl: "https://github.com/VinayDattarao/Python-Projects/tree/main/Mp3%20Player"
+    exploreUrl: "https://github.com/VinayDattarao/FinReason"
   }
 ];
 
