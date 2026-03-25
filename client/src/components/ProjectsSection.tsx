@@ -22,7 +22,7 @@ const projects = [
     id: 3,
     title: "MP3 Music Player",
     description: "Designed a fully functional MP3 Music Player using Python and Tkinter GUI framework.",
-    image: "https://images.pexels.com/photos/33797217/pexels-photo-33797217.png",
+    image: "https://images.pexels.com/photos/36731436/pexels-photo-36731436.png",
     technologies: ["Python", "Tkinter"],
     exploreUrl: "https://github.com/VinayDattarao/Python-Projects/tree/main/Mp3%20Player"
   }
