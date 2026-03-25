@@ -14,7 +14,7 @@ const projects = [
     id: 2,
     title: "Employee Management System",
     description: "Designed a GUI to handle employee records, attendance, salaries, and departmental data.",
-    image: "https://images.pexels.com/photos/36731104/pexels-photo-36731104.jpeg",
+    image: "https://images.pexels.com/photos/36731393/pexels-photo-36731393.png",
     technologies: ["Python", "SQLite", "Tkinter"],
     exploreUrl: "https://github.com/VinayDattarao/Employee-Management-System"
   },
