@@ -4,7 +4,7 @@ const projects = [
   {
     id: 1,
     title: "Sree Dattha International Conference (ICSDI 2026)",
-    description: "Developed this website for my college to manage the ICSDI 2026 international conference, handling end-to-end workflows including paper submissions, reviewer assignments, acceptance/rejection processes, and payment management. Integrated Firebase for backend services and authentication, along with Google Drive for scalable storage and management of research papers, enabling smooth coordination between authors, reviewers, and organizers.",
+    description: "Developed a production-ready website for my college to manage the ICSDI 2026 international conference. The system handles paper submissions, reviewer assignments, acceptance/rejection workflows, and payment processing. Integrated Firebase for backend services and authentication, along with Google Drive API for scalable storage and efficient management of research papers.",
     image: "https://images.pexels.com/photos/36730987/pexels-photo-36730987.png",
     technologies: ["HTML", "CSS", "JavaScript", "Firebase", "Google Drive API"],
     liveUrl: "https://sdi-conference.vercel.app/"
@@ -12,7 +12,7 @@ const projects = [
   {
     id: 2,
     title: "ProctorX",
-    description: "Built a secure online examination platform with OTP-based authentication, real-time violation tracking, fullscreen enforcement, and detailed result analytics. Supports role-based access for students and administrators with exam management and performance monitoring.",
+    description: "Built a secure online examination platform with OTP-based authentication, fullscreen enforcement, and real-time violation tracking. Supports role-based access for students and administrators, enabling exam creation, monitoring, and evaluation. Includes detailed result analytics, performance tracking, and PostgreSQL-based storage for reliability and scalability.",
     image: "https://images.pexels.com/photos/36731393/pexels-photo-36731393.png",
     technologies: ["Node.js", "PostgreSQL", "JavaScript", "HTML", "CSS"],
     liveUrl: "https://proctorx.vercel.app/",
@@ -21,7 +21,7 @@ const projects = [
   {
     id: 3,
     title: "Finance Platform (Next.js + Prisma + AI)",
-    description: "Developed a full-stack personal finance platform that processes CSV, UPI, and PDF bank statements with OCR fallback, normalizes transactions, and provides AI-driven insights like budgeting, forecasts, and anomaly detection. Includes secure authentication, multi-currency account handling, and intelligent financial analytics.",
+    description: "Developed a full-stack finance platform that processes CSV, UPI, and PDF bank statements with OCR fallback and normalizes transactions across accounts. Provides AI-driven insights including budgeting, forecasts, and anomaly detection. Built with secure authentication, multi-currency support, and intelligent analytics for improved financial decision-making.",
     image: "https://images.pexels.com/photos/36731436/pexels-photo-36731436.png",
     technologies: ["Next.js", "Prisma", "PostgreSQL", "Tailwind", "AI/ML"],
     exploreUrl: "https://github.com/VinayDattarao/FinReason"
